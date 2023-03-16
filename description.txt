@@ -1,0 +1,36 @@
+------https://www.searspartsdirect.com/------Ecommerce(2022)
+stack: ReactJs+NodeJs+AWS EC2+TailwindCSS
+dec: This site's goal is to help new and experienced DIYers quickly find and order the right part, from any device. That’s why we have 2.8 million part diagrams for more than 400,000 models as well as 50,000 manuals and installation guides. And we add more every month.
+
+To give DIYers the confidence to take on those repairs, our in-house experts have created an extensive library of nearly 1,000 pieces of repair-related videos, repair guides, error code tables and articles. You can explore our repair help here or check out our YouTube channel.
+
+------https://www.petsmart.com/-------Ecommerce(2020)
+stack: MERN+MUI+AWS S3+PWA
+desc: As the largest specialty retailer in North America, we’re proud to employ approximately 50,000 associates across 1,660+ stores, 7 distribution centers and 2 home offices. Through our work with PetSmart Charities® and PetSmart Charities of Canada®, we’ve helped facilitate more than 10 million pet adoptions.
+
+
+-------https://www.ubuy.co.ao/en/-------Ecommerce(2019)
+stack: VueJS+NodeJS+AWS+GCP+PWA
+desc: Ubuy has made its mark in the e-commerce world in 2012, as a cross-border shopping platform serving more than 180 countries.
+
+Through its website and app, Ubuy provides over 100 million brand-new, unique products from the best international brands in the US, the UK, and other countries.
+
+Ubuy enables seamless and confined payment methods as well as faster checkouts while amplifying the shopper's experience. As an International Shopping doorway, we bring quality products from luxury brands to customers' doorsteps from around the world with the assistance of the most trusted courier partners in the industry.
+
+-------http://winpulse.net-------Content Sharing Website 2018
+stack: PHP/MySQL+Laravel
+desc: 
+The company was designed in the environment of large companies, which have advanced tools for analyzing and solving problems and methods of improvement and adding value.With the emergence of crowdsourcing it was found that any company or individual could benefit from these methods in a wide network to develop their ideas, projects and find solutions! In this context, the Winpulse Network was created, knowing that an individual entrepreneurial intention must be developed to be successful, that several minds are better than one and that, despite different interests, an entrepreneur initiative creates a cycle of opportunities, allowing the participation of professionals and investors in a collaborative environment.
+
+
+-------http://epeegen.com------Online Ordering System(2018)
+PHP/MySQL, WordPress/WooCommerce
+ePeeGen is a health and wellness company that provides at-home lab testing kits and digital results within just days. ePeeGen is the only epigenetic profile test on the market.
+
+------https://www.livingstonrealtygoodliving.com(2020)-----
+Stack: PHP/MySQL, Laravel, Real Estate
+desc:  It has been successful helping hundreds of families buy and sell their homes.  And also it has regularly been awarded The Individual Quality Service Award. Their experience with buying, selling and living in numerous different homes and locations, gives them the knowledge it takes to list and sell a home. 
+
+
+
+
